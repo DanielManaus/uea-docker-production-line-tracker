@@ -1,5 +1,13 @@
 # Trabalho Final - Production Line Tracker
 
+EQUIPE:
+
+DANIEL OLIVEIRA DA SILVA
+Paulo Messias Martins Dourado
+André de Alencar Marques
+Osvaldo Relder Araújo da Silva
+Adriano Brandão Mourão
+
 Esta pratica faz parte do modulo **Gerenciamento Avancado de Containers**.
 
 O projeto escolhido foi o tema **Production Line Tracker**, para rastrear eventos de uma linha de producao industrial.
