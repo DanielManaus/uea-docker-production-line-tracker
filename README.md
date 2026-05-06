@@ -3,9 +3,13 @@
 EQUIPE:
 
 DANIEL OLIVEIRA DA SILVA
+
 Paulo Messias Martins Dourado
+
 André de Alencar Marques
+
 Osvaldo Relder Araújo da Silva
+
 Adriano Brandão Mourão
 
 Esta pratica faz parte do modulo **Gerenciamento Avancado de Containers**.
